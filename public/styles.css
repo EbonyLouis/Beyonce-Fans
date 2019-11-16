@@ -1,0 +1,23 @@
+body{
+  background-image: url(bey.jpeg);
+  word-wrap:break-word;
+  width: 80%;
+}
+h3{
+  margin-top: 40px;
+}
+li{
+  width: 50%;
+  list-style: bengali;
+}
+
+h2, h1 , li , h3{
+  color: white;
+}
+.songName , .fa-thumbs-up{
+  color: darkred;
+}
+i{
+  cursor: pointer;
+
+}
